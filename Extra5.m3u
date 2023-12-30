@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Neo.IPTV" tvg-name="Happy New Year" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/21/uracsg.jpg" group-title="",Happy New Year
+#EXTINF:-1 tvg-id="Personal.neo" tvg-name="Happy New Year" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/21/uracsg.jpg" group-title="Happy New Year",Happy New Year
 https://video.twimg.com/ext_tw_video/1739919024564412416/pr/pl/avc1/1280x720/mp4a/128000/aZ3bKbZEtvGiEg9h.m3u8?container=fmp4&tag=12
-#EXTINF:-1 tvg-id="Personal.neo" tvg-name="How To Update Playlists [ কিভাবে প্লেলিস্ট আপডেট করবেন দেখে নিন ]" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/27/uvDSr0.jpg" group-title="How To Update Playlists [ কিভাবে প্লেলিস্ট আপডেট করবেন দেখে নিন ]",How To Update Playlists [ কিভাবে প্লেলিস্ট আপডেট করবেন দেখে নিন ]
+#EXTINF:-1 tvg-id="Personal.neo2" tvg-name="More Channels Coming Soon In This Category" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/21/uraqmQ.jpg" group-title="More Channels Coming Soon In This Category",More Channels Coming Soon In This Category
+https://video.twimg.com/ext_tw_video/1737893636053057536/pr/pl/avc1/1280x720/mp4a/128000/WhlSxuS_hZ_kCIKN.m3u8?container=fmp4&variant_version=1&tag=12
+#EXTINF:-1 tvg-id="Personal.neo3" tvg-name="How To Update Playlists [ কিভাবে প্লেলিস্ট আপডেট করবেন দেখে নিন ]" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/27/uvDSr0.jpg" group-title="How To Update Playlists [ কিভাবে প্লেলিস্ট আপডেট করবেন দেখে নিন ]",How To Update Playlists [ কিভাবে প্লেলিস্ট আপডেট করবেন দেখে নিন ]
 https://video.twimg.com/ext_tw_video/1740051233954758656/pr/pl/avc1/1280x720/mp4a/128000/2RCM9yDHyogzvULP.m3u8?container=fmp4&tag=12
-#EXTINF:-1 tvg-id="Neo.IPTV" tvg-name="Neo Clone IPTV" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/28/uvDjXX.jpg" group-title="Neo Clone IPTV",Neo Clone IPTV
+#EXTINF:-1 tvg-id="Neo.IPTV123" tvg-name="Neo Clone IPTV" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/28/uvDjXX.jpg" group-title="Welcome To Neo Clone IPTV",Welcome To Neo Clone IPTV
 https://video.twimg.com/ext_tw_video/1740074497586368512/pr/pl/avc1/720x720/mp4a/128000/6c9UVBd9iWcmvclw.m3u8?container=fmp4&tag=12
